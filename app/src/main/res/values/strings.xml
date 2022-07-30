@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="username">Username</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="blog">Blog</string>
+    <string name="name">Name</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="aksi_favorite">Aksi Favorite</string>
+    <string name="jadikan_favorite">Tambah Favorite</string>
+    <string name="list_favorite">List Favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="setting">setting</string>
+</resources>
